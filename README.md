@@ -32,6 +32,9 @@ El proyecto permite gestionar hosts monitorizados, registrar alertas y generar i
 
 ## Estructura del proyecto
 
+## Estructura del proyecto
+
+```text
 Proyecto_Zabbix_Python/
 │
 ├── modules/
@@ -43,10 +46,13 @@ Proyecto_Zabbix_Python/
 │
 ├── reports/
 │
+├── docs/
+│
 ├── config.py
 ├── main.py
-└── README.md
-
+├── README.md
+└── requirements.txt
+```
 
 ---
 
