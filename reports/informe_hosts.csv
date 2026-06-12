@@ -1,0 +1,5 @@
+Host,Estado
+Servidor-Web01,Activo
+Servidor-DB01,Activo
+Firewall01,Activo
+Switch-Core01,Caído

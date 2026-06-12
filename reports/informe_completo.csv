@@ -1,0 +1,7 @@
+Tipo,Host,Estado,Problema,Criticidad
+HOST,Servidor-Web01,Activo,,
+HOST,Servidor-DB01,Activo,,
+HOST,Firewall01,Activo,,
+HOST,Switch-Core01,Caído,,
+ALERTA,Switch-Core01,,Host no disponible,Alta
+ALERTA,Servidor-Web01,,Uso elevado de CPU,Media
